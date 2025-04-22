@@ -1,0 +1,16 @@
+---
+
+"COURSE": "CAU_DRALG_2025"
+"ASSIGNMENT": "ASSIGNMENT_02"
+
+"ID": "20001234"
+"FILES":
+    - "**your-path-to-directory**/cau-dralg-2025/assignment_02/history.py" 
+"PROBLEMS": 
+    - "PROBLEM_01"
+    - "PROBLEM_02"
+    - "PROBLEM_03"
+    - "PROBLEM_04"
+    - "PROBLEM_05"
+    - "PROBLEM_06"
+        
